@@ -1,0 +1,4 @@
+(library
+  (public_name colombe.client_unix)
+  (name client_unix)
+  (libraries client lwt tls tls.lwt))

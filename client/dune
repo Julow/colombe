@@ -2,4 +2,4 @@
   (public_name colombe.client)
   (name client)
   (modules client protocol)
-  (libraries colombe lwt tls tls.lwt))
+  (libraries colombe lwt))
